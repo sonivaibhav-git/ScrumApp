@@ -1,6 +1,6 @@
 # Full Stack ScrumApp with Next JS, React, Tailwind CSS, Prisma, Neon, Clerk, Shadcn UI 
 
-![image](https://github.com/user-attachments/assets/783d4f3b-925d-44cf-aaf8-4ee4035b2f6c)
+ A full-stack project management app with features like organization/project management, issue tracking, and user authentication. It uses Next.js, Shadcn UI, and Clerk for a modern, functional interface. 
 
 ### Make sure to create a `.env` file with following variables -
 
